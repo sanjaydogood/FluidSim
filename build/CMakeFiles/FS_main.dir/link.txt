@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/FS_main.dir/src/FS_main.cpp.o  -o ../bin/FS_main -L/usr/local/lib -lfltk -lm -lX11 -lXext -lpthread -lXinerama -lXfixes -lXcursor -lXft -lXrender -lfontconfig -ldl libfluid.a 

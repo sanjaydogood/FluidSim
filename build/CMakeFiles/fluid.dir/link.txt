@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfluid.a  CMakeFiles/fluid.dir/libs/fluid.cpp.o
+/usr/bin/ranlib libfluid.a

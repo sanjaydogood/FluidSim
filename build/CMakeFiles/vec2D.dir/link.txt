@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvec2D.a  CMakeFiles/vec2D.dir/libs/vec2D.cpp.o
+/usr/bin/ranlib libvec2D.a

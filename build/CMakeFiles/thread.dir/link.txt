@@ -1,0 +1,2 @@
+/usr/bin/ar qc libthread.a  CMakeFiles/thread.dir/libs/FLTK/test/threads.cxx.o
+/usr/bin/ranlib libthread.a

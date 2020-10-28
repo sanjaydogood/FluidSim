@@ -1,0 +1,1 @@
+/usr/bin/c++     -pthread -rdynamic CMakeFiles/editor.dir/editor.cxx.o  -o ../bin/examples/editor ../lib/libfltk.a -ldl -lpthread -lSM -lICE -lX11 -lXext -lXinerama -lXfixes -lXcursor -lXrender -lXft -lfontconfig 

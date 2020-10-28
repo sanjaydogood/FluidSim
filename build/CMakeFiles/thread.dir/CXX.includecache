@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sanjay/Desktop/FluidSim/libs/FLTK/test/threads.cxx
+config.h
+-
+FL/Fl.H
+-
+FL/Fl_Double_Window.H
+-
+FL/Fl_Browser.H
+-
+FL/Fl_Value_Output.H
+-
+FL/fl_ask.H
+-
+threads.h
+/home/sanjay/Desktop/FluidSim/libs/FLTK/test/threads.h
+stdio.h
+-
+math.h
+-
+FL/fl_ask.H
+-
+
+/home/sanjay/Desktop/FluidSim/libs/FLTK/test/threads.h
+pthread.h
+-
+windows.h
+-
+process.h
+-
+process.h
+-
+

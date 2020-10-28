@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sanjay/Desktop/FluidSim/libs/fluid.hpp
+vector
+-
+
+/home/sanjay/Desktop/FluidSim/src/FS_main.cpp
+FL/Fl.H
+-
+FL/Fl_Window.H
+-
+FL/Fl_Box.H
+-
+FL/names.h
+-
+FL/fl_draw.H
+-
+FL/x.H
+-
+iostream
+-
+string
+-
+vector
+-
+../libs/fluid.hpp
+/home/sanjay/Desktop/FluidSim/libs/fluid.hpp
+

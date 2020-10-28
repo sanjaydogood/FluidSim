@@ -1,0 +1,1 @@
+/usr/bin/c++     -pthread -rdynamic CMakeFiles/offscreen.dir/offscreen.cxx.o  -o ../bin/examples/offscreen ../lib/libfltk.a -ldl -lpthread -lSM -lICE -lX11 -lXext -lXinerama -lXfixes -lXcursor -lXrender -lXft -lfontconfig 

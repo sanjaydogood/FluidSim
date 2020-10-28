@@ -1,0 +1,4 @@
+/home/sanjay/Desktop/FluidSim/build/CMakeFiles/rebuild_cache.dir
+/home/sanjay/Desktop/FluidSim/build/CMakeFiles/edit_cache.dir
+/home/sanjay/Desktop/FluidSim/build/CMakeFiles/fluid.dir
+/home/sanjay/Desktop/FluidSim/build/CMakeFiles/FS_main.dir

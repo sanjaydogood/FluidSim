@@ -1,0 +1,1 @@
+/usr/bin/c++     -pthread -rdynamic CMakeFiles/sudoku.dir/sudoku.cxx.o  -o ../bin/examples/sudoku ../lib/libfltk.a ../lib/libfltk_images.a ../lib/libfltk.a -ldl -lpthread -lSM -lICE -lX11 -lXext -lXinerama -lXfixes -lXcursor -lXrender -lXft -lfontconfig -ljpeg -lz -lpng -lz -lpng 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sanjay/Desktop/FluidSim/libs/vec2D.cpp
+vec2D.hpp
+/home/sanjay/Desktop/FluidSim/libs/vec2D.hpp
+vector
+-
+
+/home/sanjay/Desktop/FluidSim/libs/vec2D.hpp
+vector
+-
+
